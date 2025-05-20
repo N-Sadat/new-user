@@ -25,7 +25,7 @@ Perfect for quick user setup on Kali or other Debian-based systems.
 ### 1. 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/n-sadat/new-user.git
+git clone https://github.com/N-Sadat/new-user.git
 cd new-user
 ```
 
