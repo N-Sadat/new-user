@@ -25,8 +25,8 @@ Perfect for quick user setup on Kali or other Debian-based systems.
 ### 1. 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kali-user-creator.git
-cd kali-user-creator
+git clone https://github.com/n-sadat/new-user.git
+cd new-user
 ```
 
 ### 2. 🧾 Make the Script Executable
